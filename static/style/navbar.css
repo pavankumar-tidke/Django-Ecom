@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+
+.navbar {
+    background-color: rgb(42, 27, 255);
+}
+.navbar .navbar-brand {
+    font-family: 'Zen Tokyo Zoo';
+    font-size: 20px;
+}
+.search-input {
+    width: 500px !important;
+}
+
+.navbar input, button, a {
+    outline: none !important;
+    box-shadow: none !important;
+}
+.navbar .btn {
+    background-color: rgb(152, 243, 255) !important;
+}
+.navbar input {
+    background: rgb(152, 243, 255);
+    border: 1px solid rgb(0, 149, 168);
+}
+.navbar input:focus {
+    background: rgb(152, 243, 255);
+    border: 1px solid rgb(0, 149, 168);
+}
+
+ 
+/* profile-Dropdown */
+.dropdown-menu {
+    border: 1px solid rgb(42, 27, 255) !important;
+    box-shadow: 0px 3px 16px rgb(151, 151, 151) !important;
+    width: 200px !important;
+}
+
+  
